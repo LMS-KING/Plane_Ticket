@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/picture">
+        <file>F:/下载/qq图像/airplane.gif</file>
+        <file>F:/下载/网络下载/舒适.jpg</file>
+        <file>F:/下载/网络下载/团队.jpg</file>
+        <file>F:/下载/网络下载/贴心_副本.jpg</file>
+        <file>F:/下载/网络下载/信仰_副本.jpg</file>
+        <file>F:/下载/网络下载/飞机2_副本.jpg</file>
+        <file>F:/下载/网络下载/登录.png</file>
+        <file>F:/下载/网络下载/密码.png</file>
+        <file>F:/下载/网络下载/注册.png</file>
+    </qresource>
+</RCC>
